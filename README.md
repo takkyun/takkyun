@@ -1,1 +1,2 @@
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=takkyun&count_private=true&show_icons=true)
+- [Remote-work report](https://report.serenebach.net/)
+- [SimpleBoxes](https://serennz.sakura.ne.jp/sb/)
