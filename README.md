@@ -1,2 +1,2 @@
-- [Remote-work report](https://report.serenebach.net/)
-- [SimpleBoxes](https://serennz.sakura.ne.jp/sb/)
+- [Remote-work report (in Japanse)](https://report.serenebach.net/)
+- [SimpleBoxes (in Japanse)](https://serennz.sakura.ne.jp/sb/)
